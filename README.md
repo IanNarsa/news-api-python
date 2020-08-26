@@ -5,7 +5,7 @@ Endpoint
 <br>
 Mengambil top headline 
 
-  > /ambil
+  > https://news-app-python.herokuapp.com/ambil
 <br>
 Mengambil berita dengan topik tertentu 
 
