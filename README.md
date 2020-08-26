@@ -3,8 +3,10 @@
 Endpoint
 
 <br>
-Mengambil top headline
-> /ambil
+Mengambil top headline 
+
+  > /ambil
 <br>
-Mengambil berita dengan topik tertentu
-> /ambil/<keyword> (untuk keyword : business entertainment health science sports technology)
+Mengambil berita dengan topik tertentu 
+
+  > /ambil/<keyword> (untuk keyword : business entertainment health science sports technology)
